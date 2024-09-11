@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+PL:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NG+Modern&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.playwrite-pl-100 {
+    font-family: "Playwrite PL", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.playwrite-pl-400 {
+    font-family: "Playwrite PL", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.playwrite-pl-700 {
+    font-family: "Playwrite PL", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.playwrite-pl-900 {
+    font-family: "Playwrite PL", cursive;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.satisfy-regular {
+    font-family: "Satisfy", cursive;
+    font-weight: 900;
+    font-style: normal;
+}
+.satisfy-regular-400 {
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.playwrite-ng-modern-400 {
+    font-family: "Playwrite NG Modern", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.playwrite-ng-modern-900 {
+    font-family: "Playwrite NG Modern", cursive;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
